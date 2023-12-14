@@ -5329,11 +5329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Industry Connect\\Mars_Competition\\Mars_CompetitionTask\\Mars_CompetitionTask\\Mars_CompetitionTask.csproj",
+      "projectUniqueName": "C:\\Users\\shilpi\\Source\\Repos\\Mars_Competition\\Mars_CompetitionTask\\Mars_CompetitionTask\\Mars_CompetitionTask.csproj",
       "projectName": "Mars_CompetitionTask",
-      "projectPath": "A:\\Industry Connect\\Mars_Competition\\Mars_CompetitionTask\\Mars_CompetitionTask\\Mars_CompetitionTask.csproj",
+      "projectPath": "C:\\Users\\shilpi\\Source\\Repos\\Mars_Competition\\Mars_CompetitionTask\\Mars_CompetitionTask\\Mars_CompetitionTask.csproj",
       "packagesPath": "C:\\Users\\shilpi\\.nuget\\packages\\",
-      "outputPath": "A:\\Industry Connect\\Mars_Competition\\Mars_CompetitionTask\\Mars_CompetitionTask\\obj\\",
+      "outputPath": "C:\\Users\\shilpi\\Source\\Repos\\Mars_Competition\\Mars_CompetitionTask\\Mars_CompetitionTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shilpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
